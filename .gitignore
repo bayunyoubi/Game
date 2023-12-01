@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+*.ini
+Config/DefaultInput.ini
